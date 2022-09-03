@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/climax-blog-frontend/static/css/main.5f99d24a.css",
+    "main.js": "/climax-blog-frontend/static/js/main.48450701.js",
+    "static/js/787.a7f1c1cc.chunk.js": "/climax-blog-frontend/static/js/787.a7f1c1cc.chunk.js",
+    "index.html": "/climax-blog-frontend/index.html",
+    "main.5f99d24a.css.map": "/climax-blog-frontend/static/css/main.5f99d24a.css.map",
+    "main.48450701.js.map": "/climax-blog-frontend/static/js/main.48450701.js.map",
+    "787.a7f1c1cc.chunk.js.map": "/climax-blog-frontend/static/js/787.a7f1c1cc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f99d24a.css",
+    "static/js/main.48450701.js"
+  ]
+}
